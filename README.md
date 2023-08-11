@@ -1,24 +1,5 @@
-# README
+# DMM WEBCAMPコンテンツ【アプリケーションを完成させよう】
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+「アプリケーションを完成させよう2」の1章, 2～22章, 24章：Meshiterro が配置されています。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+2章はソースコードの更新なし。
